@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm [Pramukh Kaveti] 👋
 
-<!--
-**kavetipramukh/kavetipramukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building cool projects and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **[JavaScript]**
+- 🌱 I’m currently learning **[Node JS]**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 How to reach me: **[kavetpramukh122@gmail.com]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- 💻 Languages: `Html`, `JavaScript`, `TypeScript`, `C++`
+- 🌐 Frontend: `React`, `Next.js`, `Tailwind CSS`
+- 🔧 Backend: `Node.js`, `Python`
+- 🛢️ Database: `MongoDB`, `PostgreSQL`
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kavetipramukh/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle)
+
+Thanks for stopping by! 😊
