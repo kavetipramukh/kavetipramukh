@@ -58,7 +58,7 @@ Conducted exploratory data analysis on Titanic dataset to uncover key survival t
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/kavetipramukh)
+- 🌐 [LinkedIn]()
 - 📧 kavetipramukh122@gmail.com
 
 ---
